@@ -2,4 +2,5 @@
 !.gitignore
 !README.md
 !pgsql_triggers.md
+!/images
 .Rproj.user
